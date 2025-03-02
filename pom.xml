@@ -17,6 +17,8 @@
     <modules>
         <module>common</module>
         <module>mq</module>
+        <module>vim</module>
+        <module>algorithm</module>
     </modules>
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
